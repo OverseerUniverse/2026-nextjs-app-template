@@ -31,10 +31,11 @@ Welcome to the getting started page! Here is all you need to know to get this re
 3. Turn on branch protections for main and develop branches
    1. Visit your repo on [github.com](https://github.com)
    2. Click the Settings button on the top bar
-   3. Click the branches tab on the left sidebar
-   4. Click add rule
-   5. Click "Require a pull request before merging"
-   6. Create  
+   3. Click the Rulesets tab on the left sidebar
+   4. Click add New branch ruleset
+   5. Add the Default branch as a target
+   6. Click "Require a pull request before merging" with the following settings
+   7. Save Changes  
       <img src="./images/require-code-review.png" alt="Require Code Review" width="500"/>
 4. See [template-features.md](./template-features.md) for features included in this template repository.
 

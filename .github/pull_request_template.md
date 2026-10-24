@@ -18,7 +18,7 @@ Closes #{ISSUE NUMBER HERE}
 
 - [ ] Code is neat, readable, and works
 - [ ] Comments are appropriate
-- [ ] The commit messages follows our [guidelines](https://h4i.notion.site/Conventional-Commits-593452ad1179489399ad3bd696ef772a)
+- [ ] The commit messages follows our [guidelines](https://app.notion.com/p/h4i/Git-Commits-Pull-Requests-246197abf07b80edb9a0c7a45d01bbc8?source=copy_link)
 - [ ] The developer name is specified
 - [ ] The summary is completed
 - [ ] Assign reviewers
