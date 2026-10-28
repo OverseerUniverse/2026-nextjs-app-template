@@ -12,6 +12,9 @@
     "test": "echo 'Install vitest (or another unit test suite) to use this command.'",
     "prepare": "husky"
   },
+  "engines": {
+    "node": "24.x"
+  },
   "dependencies": {
     "mongoose": "^9.11.4",
     "next": "16.4.3",
@@ -19,8 +22,8 @@
     "react-dom": "19.3.0"
   },
   "devDependencies": {
-    "@tailwindcss/turbopack": "^4",
-    "@types/node": "^20",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^24.19.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
@@ -28,8 +31,9 @@
     "eslint-config-prettier": "^10.1.8",
     "husky": "^9.1.7",
     "lint-staged": "^17.6.0",
+    "postcss": "^8.5.32",
     "prettier": "^3.9.10",
-    "tailwindcss": "^4",
+    "tailwindcss": "^4.3.3",
     "typescript": "^5"
   }
 }
